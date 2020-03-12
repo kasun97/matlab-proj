@@ -1,6 +1,6 @@
 # matlab-proj
-  voice recognition.
-  Matlab Voice Training and Assisting Project.
+  #voice recognition.
+  #Matlab Voice Training and Assisting Project.
 
 # Features
 
